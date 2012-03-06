@@ -16,5 +16,4 @@
     <beans:import resource="views.xml" />
     <beans:import resource="controllers.xml" />
 
-
 </beans:beans>

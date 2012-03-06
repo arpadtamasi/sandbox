@@ -9,6 +9,8 @@
     <definition name="page.index" extends="layout.default">
         <put-attribute name="content" value="/WEB-INF/content/jsp/index.jsp" />
     </definition>
-
+    <definition name="page.vedett" extends="layout.default">
+        <put-attribute name="content" value="/WEB-INF/content/jsp/vedett.jsp" />
+    </definition>
 
 </tiles-definitions>
